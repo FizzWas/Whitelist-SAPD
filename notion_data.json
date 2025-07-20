@@ -1,236 +1,189 @@
 [
   {
-    "id": "2168587e-fd8f-802e-945f-c15b13d195dd",
     "nombre": "Klaus Holzthyzh",
     "rango": "Cadete"
   },
   {
-    "id": "1e38587e-fd8f-808f-9c14-ded5096b7c81",
     "nombre": "Eden Leblanc",
     "rango": "Externo"
   },
   {
-    "id": "1dc8587e-fd8f-8061-9536-f34e42932457",
     "nombre": "Xang Bassthem",
     "rango": "Externo"
   },
   {
-    "id": "1dc8587e-fd8f-80dc-86bd-defbe880d660",
     "nombre": "Melany Nighthell",
     "rango": "Oficial"
   },
   {
-    "id": "1dc8587e-fd8f-80d7-832c-d72b70cc9da9",
     "nombre": "Rodolfo Evans",
     "rango": "Oficial"
   },
   {
-    "id": "1dc8587e-fd8f-80f6-87be-f21b891ce78f",
     "nombre": "Jere Kohler",
     "rango": "Oficial"
   },
   {
-    "id": "1dc8587e-fd8f-8075-a9a5-e4462d092bd3",
     "nombre": "Ezzio Audiitore ",
     "rango": "Oficial"
   },
   {
-    "id": "1ca8587e-fd8f-80f4-a43a-def74e121f67",
     "nombre": "Kreynex Jimenez",
     "rango": "Cabo"
   },
   {
-    "id": "42ccac5b-4fa7-4ae3-bfd4-c80d722fff57",
     "nombre": "Tommy Mashlowht",
     "rango": "Externo"
   },
   {
-    "id": "f165b0e2-1f18-46c5-a173-8650ae2873ef",
     "nombre": "Ayax Wobbyskot",
     "rango": "Suboficial"
   },
   {
-    "id": "54c05595-cd89-4629-a613-8999b20e209d",
     "nombre": "Gabriel Wingston",
     "rango": "Suboficial"
   },
   {
-    "id": "9e04b1d9-d87a-407e-9fa6-6c03bbeb776e",
     "nombre": "Gerard Brighhtwellz",
     "rango": "Externo"
   },
   {
-    "id": "a129d449-76dc-4510-86f6-a725c86d64e9",
     "nombre": "Skyler Understand",
     "rango": "Cabo"
   },
   {
-    "id": "a9fe06dc-e5c0-47ec-af06-b0b6cc4f4419",
     "nombre": "Owen Berthenzhaal",
     "rango": "Externo"
   },
   {
-    "id": "99c452f8-9a32-4226-ad1c-f583ca3ee372",
     "nombre": "Lance Understand",
     "rango": "Oficial"
   },
   {
-    "id": "5152623f-6485-4880-90ab-c81fbc4966d7",
     "nombre": "Cristian Zaramay",
     "rango": "Cabo"
   },
   {
-    "id": "bc642639-fe59-4356-95ea-e5ea055a5ab8",
     "nombre": "Jere Baigorria",
     "rango": "Externo"
   },
   {
-    "id": "1218587e-fd8f-8051-afb1-cf7bab0ae9d3",
     "nombre": "Alejandro Gongora",
     "rango": "Cabo"
   },
   {
-    "id": "4feb8812-a6fc-4727-bc89-2d21cbff07f6",
     "nombre": "Raul Ferreira",
     "rango": "Cabo"
   },
   {
-    "id": "8857936b-088d-4215-a0f6-1a9ed5ad03c0",
     "nombre": "Rayz Brockullz",
     "rango": "Externo"
   },
   {
-    "id": "c07d7d40-4e1e-4a6e-a98f-caa5d9869a3f",
     "nombre": "Paris Bismark",
     "rango": "Oficial"
   },
   {
-    "id": "edc350c3-e747-478e-86ee-c9ebf4ae4e70",
     "nombre": "Chloe Kalinowski",
     "rango": "Oficial"
   },
   {
-    "id": "759dd166-eb9a-4ba0-920d-6a175aae5832",
     "nombre": "Maria Parra",
     "rango": "Cabo"
   },
   {
-    "id": "a40bf5b2-890f-4794-bfb9-3b1aa839610b",
     "nombre": "Dominica Hernandez",
     "rango": "Cabo"
   },
   {
-    "id": "d2946e3c-1af9-47ec-8116-2156518dd2e0",
     "nombre": "Benja Yisus",
     "rango": "Sargento"
   },
   {
-    "id": "e2828338-3191-48b8-a4e0-40271d00649b",
     "nombre": "Leo Ucelay",
     "rango": "Teniente"
   },
   {
-    "id": "097f6c17-991c-438b-983e-5d3c68e0ab71",
     "nombre": "Viktor Knyazev",
     "rango": "Sargento"
   },
   {
-    "id": "0ad23cd1-6364-4489-97a2-5e7bd89e84f4",
     "nombre": "Erick Balderas",
     "rango": "Oficial"
   },
   {
-    "id": "1498d1d9-918b-48e8-812e-7a5942d26639",
     "nombre": "Roderick Geraghty",
     "rango": "General"
   },
   {
-    "id": "18d6d8ca-d4d1-44fd-ae47-e81f3ba51f6c",
     "nombre": "Exi Wierzbicka",
     "rango": "Sargento"
   },
   {
-    "id": "1ad9d2e1-e5c9-474f-bcaa-74a7ea08b8f4",
     "nombre": "James Rothwagen",
     "rango": "Teniente"
   },
   {
-    "id": "4d1d200a-23e2-4237-84af-7b23efedd1ed",
     "nombre": "Guada Martinez",
     "rango": "Cabo"
   },
   {
-    "id": "5d8d7633-f81a-4e90-b72a-9141e0cdbefd",
     "nombre": "Eliseo King",
     "rango": "Externo"
   },
   {
-    "id": "8f13eef1-d452-4c86-b7d0-02ca303fc6e6",
     "nombre": "Giorgio Rosselli",
     "rango": "Externo"
   },
   {
-    "id": "aab50da3-63f9-47b1-9f87-76d591fb6786",
     "nombre": "Raul Deleone",
     "rango": "Externo"
   },
   {
-    "id": "d6601ece-39ce-4bf7-86da-6ce2696dbf6e",
     "nombre": "Mate Zaitsev",
     "rango": "Cabo"
   },
   {
-    "id": "ff7066a2-488b-43c9-b662-94184790c003",
     "nombre": "Weijers Stranded",
     "rango": "Capitán"
   },
   {
-    "id": "30b6940e-289f-4319-bd1d-e396617fddfe",
     "nombre": "Vinnie Buenrostro",
     "rango": "General"
   },
   {
-    "id": "50c3f690-b54a-41da-bf0d-ff84f1e5a636",
     "nombre": "Misty Day",
     "rango": "Cabo"
   },
   {
-    "id": "8635f886-0470-41c3-902e-9c4f10223fdb",
     "nombre": "Alidxon Aviles",
     "rango": "Sargento"
   },
   {
-    "id": "8e15d227-2032-4f00-8504-cfdf0d40e5b3",
     "nombre": "Marco Carvajal",
     "rango": "Externo"
   },
   {
-    "id": "c43b7d40-61f1-4d1b-8c75-56c7b2da5b86",
     "nombre": "Neythan Bethzskye",
     "rango": "Capitán"
   },
   {
-    "id": "ddc4e77b-dd4d-44aa-9471-7d8ebcfd8418",
     "nombre": "Mert Yilmaz",
     "rango": "Capitán"
   },
   {
-    "id": "eae06d78-a950-4bd6-b764-046365bae2ef",
     "nombre": "Naduo Giaccometti",
     "rango": "Teniente"
   },
   {
-    "id": "067b2926-f3ca-4916-8e0e-bc7f14b9e209",
     "nombre": "Carlos Gonzalez",
     "rango": "Sargento"
   },
   {
-    "id": "69dfccbd-69b7-4189-8148-9ac4baeb3fa4",
     "nombre": "Fernan Trejo",
     "rango": "Teniente"
   },
   {
-    "id": "b004647f-d3c9-4f85-941f-49d5b4d506dd",
     "nombre": "Cessar Johnson",
     "rango": "Sargento"
   }
