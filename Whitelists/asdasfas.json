@@ -1,0 +1,7 @@
+{
+  "whitelist": [
+    "CustomUser1",
+    "CustomUser2",
+    "VIP_Player"
+  ]
+}
