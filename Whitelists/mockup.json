@@ -1,1 +1,7 @@
-this is a certain file
+{
+  "whitelist": [
+    "Agent Carter",
+    "Agent Reyes",
+    "Director Thompson"
+  ]
+}
