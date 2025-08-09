@@ -1,7 +1,66 @@
 {
-  "Tier_4": [],
-  "Tier_3": [],
-  "Tier_2": [],
+  "Tier_4": [
+    {
+      "nombre": "Roderick Geraghty",
+      "rango": "General"
+    },
+    {
+      "nombre": "Vinnie Buenrostro",
+      "rango": "General"
+    },
+    {
+      "nombre": "Weijers Stranded",
+      "rango": "Capitán"
+    }
+  ],
+  "Tier_3": [
+    {
+      "nombre": "Leo Ucelay",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Viktor Knyazev",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "James Rothwagen",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Naduo Giaccometti",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Fernan Trejo",
+      "rango": "Teniente"
+    }
+  ],
+  "Tier_2": [
+    {
+      "nombre": "Kreynex Jimenez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Cristian Zaramay",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Alejandro Gongora",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Guada Martinez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Mate Zaitsev",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Mert Yilmaz",
+      "rango": "Capitán"
+    }
+  ],
   "Tier_1": [
     {
       "nombre": "Sukaji Joestar",
@@ -24,10 +83,6 @@
       "rango": "Oficial"
     },
     {
-      "nombre": "Kreynex Jimenez",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Ayax Wobbyskot",
       "rango": "Suboficial"
     },
@@ -42,14 +97,6 @@
     {
       "nombre": "Lance Understand",
       "rango": "Oficial"
-    },
-    {
-      "nombre": "Cristian Zaramay",
-      "rango": "Cabo"
-    },
-    {
-      "nombre": "Alejandro Gongora",
-      "rango": "Cabo"
     },
     {
       "nombre": "Raul Ferreira",
@@ -72,44 +119,12 @@
       "rango": "Sargento"
     },
     {
-      "nombre": "Leo Ucelay",
-      "rango": "Teniente"
-    },
-    {
-      "nombre": "Viktor Knyazev",
-      "rango": "Teniente"
-    },
-    {
       "nombre": "Erick Balderas",
       "rango": "Oficial"
     },
     {
-      "nombre": "Roderick Geraghty",
-      "rango": "General"
-    },
-    {
       "nombre": "Exi Wierzbicka",
       "rango": "Teniente"
-    },
-    {
-      "nombre": "James Rothwagen",
-      "rango": "Teniente"
-    },
-    {
-      "nombre": "Guada Martinez",
-      "rango": "Cabo"
-    },
-    {
-      "nombre": "Mate Zaitsev",
-      "rango": "Cabo"
-    },
-    {
-      "nombre": "Weijers Stranded",
-      "rango": "Capitán"
-    },
-    {
-      "nombre": "Vinnie Buenrostro",
-      "rango": "General"
     },
     {
       "nombre": "Misty Day",
@@ -120,20 +135,8 @@
       "rango": "Sargento"
     },
     {
-      "nombre": "Mert Yilmaz",
-      "rango": "Capitán"
-    },
-    {
-      "nombre": "Naduo Giaccometti",
-      "rango": "Teniente"
-    },
-    {
       "nombre": "Carlos Gonzalez",
       "rango": "Sargento"
-    },
-    {
-      "nombre": "Fernan Trejo",
-      "rango": "Teniente"
     },
     {
       "nombre": "Cessar Johnson",
@@ -154,15 +157,7 @@
       "rango": ""
     },
     {
-      "nombre": "Mark Robles",
-      "rango": ""
-    },
-    {
       "nombre": "N/A",
-      "rango": ""
-    },
-    {
-      "nombre": "",
       "rango": ""
     },
     {
