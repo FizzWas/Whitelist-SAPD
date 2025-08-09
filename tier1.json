@@ -1,5 +1,33 @@
 [
   {
+    "nombre": "August Smith",
+    "rango": "Externo"
+  },
+  {
+    "nombre": "John Callahan",
+    "rango": "Externo"
+  },
+  {
+    "nombre": "Mark Robles",
+    "rango": ""
+  },
+  {
+    "nombre": "Sukaji Joestar",
+    "rango": "Cadete"
+  },
+  {
+    "nombre": "Mark Robles",
+    "rango": ""
+  },
+  {
+    "nombre": "N/A",
+    "rango": ""
+  },
+  {
+    "nombre": "",
+    "rango": ""
+  },
+  {
     "nombre": "Klaus Holzthyzh",
     "rango": "Cadete"
   },
@@ -13,7 +41,7 @@
   },
   {
     "nombre": "Melany Nighthell",
-    "rango": "Oficial"
+    "rango": "Externo"
   },
   {
     "nombre": "Rodolfo Evans",
@@ -49,7 +77,7 @@
   },
   {
     "nombre": "Skyler Understand",
-    "rango": "Cabo"
+    "rango": "Sargento"
   },
   {
     "nombre": "Owen Berthenzhaal",
@@ -81,7 +109,7 @@
   },
   {
     "nombre": "Paris Bismark",
-    "rango": "Oficial"
+    "rango": "Externo"
   },
   {
     "nombre": "Chloe Kalinowski",
@@ -105,7 +133,7 @@
   },
   {
     "nombre": "Viktor Knyazev",
-    "rango": "Sargento"
+    "rango": "Teniente"
   },
   {
     "nombre": "Erick Balderas",
@@ -117,7 +145,7 @@
   },
   {
     "nombre": "Exi Wierzbicka",
-    "rango": "Sargento"
+    "rango": "Teniente"
   },
   {
     "nombre": "James Rothwagen",
@@ -165,7 +193,7 @@
   },
   {
     "nombre": "Neythan Bethzskye",
-    "rango": "Capitán"
+    "rango": "Externo"
   },
   {
     "nombre": "Mert Yilmaz",
