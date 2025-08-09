@@ -1,67 +1,34 @@
 {
-  "Tier_4": [],
-  "Tier_3": [],
-  "Tier_2": [],
-  "Tier_1": [
+  "Tier_4": [
     {
-      "nombre": "Sukaji Joestar",
-      "rango": "Cadete"
+      "nombre": "Roderick Geraghty",
+      "rango": "General"
     },
     {
-      "nombre": "Klaus Holzthyzh",
-      "rango": "Cadete"
+      "nombre": "Exi Wierzbicka",
+      "rango": "Teniente"
     },
     {
-      "nombre": "Rodolfo Evans",
-      "rango": "Oficial"
+      "nombre": "Vinnie Buenrostro",
+      "rango": "General"
     },
     {
-      "nombre": "Jere Kohler",
-      "rango": "Oficial"
-    },
-    {
-      "nombre": "Ezzio Audiitore ",
-      "rango": "Oficial"
-    },
+      "nombre": "Carlos Gonzalez",
+      "rango": "Sargento"
+    }
+  ],
+  "Tier_3": [
     {
       "nombre": "Kreynex Jimenez",
       "rango": "Cabo"
-    },
-    {
-      "nombre": "Ayax Wobbyskot",
-      "rango": "Suboficial"
-    },
-    {
-      "nombre": "Gabriel Wingston",
-      "rango": "Suboficial"
     },
     {
       "nombre": "Skyler Understand",
       "rango": "Sargento"
     },
     {
-      "nombre": "Lance Understand",
-      "rango": "Oficial"
-    },
-    {
-      "nombre": "Cristian Zaramay",
-      "rango": "Cabo"
-    },
-    {
-      "nombre": "Alejandro Gongora",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Raul Ferreira",
       "rango": "Sargento"
-    },
-    {
-      "nombre": "Chloe Kalinowski",
-      "rango": "Oficial"
-    },
-    {
-      "nombre": "Maria Parra",
-      "rango": "Cabo"
     },
     {
       "nombre": "Dominica Hernandez",
@@ -72,32 +39,12 @@
       "rango": "Sargento"
     },
     {
-      "nombre": "Leo Ucelay",
-      "rango": "Teniente"
-    },
-    {
       "nombre": "Viktor Knyazev",
-      "rango": "Teniente"
-    },
-    {
-      "nombre": "Erick Balderas",
-      "rango": "Oficial"
-    },
-    {
-      "nombre": "Roderick Geraghty",
-      "rango": "General"
-    },
-    {
-      "nombre": "Exi Wierzbicka",
       "rango": "Teniente"
     },
     {
       "nombre": "James Rothwagen",
       "rango": "Teniente"
-    },
-    {
-      "nombre": "Guada Martinez",
-      "rango": "Cabo"
     },
     {
       "nombre": "Mate Zaitsev",
@@ -108,36 +55,96 @@
       "rango": "Capitán"
     },
     {
-      "nombre": "Vinnie Buenrostro",
-      "rango": "General"
-    },
-    {
-      "nombre": "Misty Day",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Alidxon Aviles",
       "rango": "Sargento"
     },
     {
+      "nombre": "Neythan Bethzskye",
+      "rango": "Externo"
+    },
+    {
       "nombre": "Mert Yilmaz",
       "rango": "Capitán"
+    }
+  ],
+  "Tier_2": [
+    {
+      "nombre": "Rodolfo Evans",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Jere Kohler",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Lance Understand",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Alejandro Gongora",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Maria Parra",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Leo Ucelay",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Guada Martinez",
+      "rango": "Cabo"
     },
     {
       "nombre": "Naduo Giaccometti",
       "rango": "Teniente"
     },
     {
-      "nombre": "Carlos Gonzalez",
+      "nombre": "Cessar Johnson",
       "rango": "Sargento"
+    }
+  ],
+  "Tier_1": [
+    {
+      "nombre": "Sukaji Joestar",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Klaus Holzthyzh",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Ezzio Audiitore ",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Ayax Wobbyskot",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Gabriel Wingston",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Cristian Zaramay",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Chloe Kalinowski",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Erick Balderas",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Misty Day",
+      "rango": "Cabo"
     },
     {
       "nombre": "Fernan Trejo",
       "rango": "Teniente"
-    },
-    {
-      "nombre": "Cessar Johnson",
-      "rango": "Sargento"
     }
   ],
   "Tier_0": [
@@ -215,10 +222,6 @@
     },
     {
       "nombre": "Marco Carvajal",
-      "rango": "Externo"
-    },
-    {
-      "nombre": "Neythan Bethzskye",
       "rango": "Externo"
     }
   ]
