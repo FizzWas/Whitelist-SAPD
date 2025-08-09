@@ -1,0 +1,225 @@
+{
+  "Tier_4": [],
+  "Tier_3": [],
+  "Tier_2": [],
+  "Tier_1": [
+    {
+      "nombre": "Sukaji Joestar",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Klaus Holzthyzh",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Rodolfo Evans",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Jere Kohler",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Ezzio Audiitore ",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Kreynex Jimenez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Ayax Wobbyskot",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Gabriel Wingston",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Skyler Understand",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Lance Understand",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Cristian Zaramay",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Alejandro Gongora",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Raul Ferreira",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Chloe Kalinowski",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Maria Parra",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Dominica Hernandez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Benja Yisus",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Leo Ucelay",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Viktor Knyazev",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Erick Balderas",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Roderick Geraghty",
+      "rango": "General"
+    },
+    {
+      "nombre": "Exi Wierzbicka",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "James Rothwagen",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Guada Martinez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Mate Zaitsev",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Weijers Stranded",
+      "rango": "Capitán"
+    },
+    {
+      "nombre": "Vinnie Buenrostro",
+      "rango": "General"
+    },
+    {
+      "nombre": "Misty Day",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Alidxon Aviles",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Mert Yilmaz",
+      "rango": "Capitán"
+    },
+    {
+      "nombre": "Naduo Giaccometti",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Carlos Gonzalez",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Fernan Trejo",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Cessar Johnson",
+      "rango": "Sargento"
+    }
+  ],
+  "Tier_0": [
+    {
+      "nombre": "August Smith",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "John Callahan",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Mark Robles",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark Robles",
+      "rango": ""
+    },
+    {
+      "nombre": "N/A",
+      "rango": ""
+    },
+    {
+      "nombre": "",
+      "rango": ""
+    },
+    {
+      "nombre": "Eden Leblanc",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Xang Bassthem",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Melany Nighthell",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Tommy Mashlowht",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Gerard Brighhtwellz",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Owen Berthenzhaal",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Jere Baigorria",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Rayz Brockullz",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Paris Bismark",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Eliseo King",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Giorgio Rosselli",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Raul Deleone",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Marco Carvajal",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Neythan Bethzskye",
+      "rango": "Externo"
+    }
+  ]
+}
