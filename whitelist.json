@@ -19,15 +19,15 @@
   ],
   "Tier_3": [
     {
-      "nombre": "Kreynex Jimenez",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Skyler Understand",
       "rango": "Sargento"
     },
     {
-      "nombre": "Raul Ferreira",
+      "nombre": "Lance Understand",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Raul Ferreiraaaa",
       "rango": "Sargento"
     },
     {
@@ -43,10 +43,6 @@
       "rango": "Teniente"
     },
     {
-      "nombre": "James Rothwagen",
-      "rango": "Teniente"
-    },
-    {
       "nombre": "Mate Zaitsev",
       "rango": "Cabo"
     },
@@ -57,10 +53,6 @@
     {
       "nombre": "Alidxon Aviles",
       "rango": "Sargento"
-    },
-    {
-      "nombre": "Neythan Bethzskye",
-      "rango": "Externo"
     },
     {
       "nombre": "Mert Yilmaz",
@@ -74,10 +66,6 @@
     },
     {
       "nombre": "Jere Kohler",
-      "rango": "Oficial"
-    },
-    {
-      "nombre": "Lance Understand",
       "rango": "Oficial"
     },
     {
@@ -119,6 +107,10 @@
       "rango": "Oficial"
     },
     {
+      "nombre": "Kreynex Jimenez",
+      "rango": "Cabo"
+    },
+    {
       "nombre": "Ayax Wobbyskot",
       "rango": "Suboficial"
     },
@@ -137,6 +129,10 @@
     {
       "nombre": "Erick Balderas",
       "rango": "Oficial"
+    },
+    {
+      "nombre": "James Rothwagen",
+      "rango": "Teniente"
     },
     {
       "nombre": "Misty Day",
@@ -222,6 +218,10 @@
     },
     {
       "nombre": "Marco Carvajal",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Neythan Bethzskye",
       "rango": "Externo"
     }
   ]
