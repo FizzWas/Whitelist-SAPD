@@ -95,6 +95,10 @@
   ],
   "Tier_1": [
     {
+      "nombre": "August Smith",
+      "rango": "Sargento"
+    },
+    {
       "nombre": "Sukaji Joestar",
       "rango": "Cadete"
     },
@@ -108,7 +112,7 @@
     },
     {
       "nombre": "Kreynex Jimenez",
-      "rango": "Cabo"
+      "rango": "Sargento"
     },
     {
       "nombre": "Ayax Wobbyskot",
@@ -144,10 +148,6 @@
     }
   ],
   "Tier_0": [
-    {
-      "nombre": "August Smith",
-      "rango": "Externo"
-    },
     {
       "nombre": "John Callahan",
       "rango": "Externo"
