@@ -1,11 +1,167 @@
 {
-  "Tier_4": [],
-  "Tier_3": [],
-  "Tier_2": [],
-  "Tier_1": [],
+  "Tier_4": [
+    {
+      "nombre": "Roderick Geraghty",
+      "rango": "General"
+    },
+    {
+      "nombre": "Exi Wierzbicka",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Eratóstenes",
+      "rango": "General"
+    },
+    {
+      "nombre": "Carlos Gonzalez",
+      "rango": "Sargento"
+    }
+  ],
+  "Tier_3": [
+    {
+      "nombre": "Skyler Understand",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Lance Understand",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Raul Ferreira",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Dominica Hernandez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Benja Yisus",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Viktor Knyazev",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Mate Zaitsev",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Weijers Stranded",
+      "rango": "Capitán"
+    },
+    {
+      "nombre": "Alidxon Aviles",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Mert Yilmaz",
+      "rango": "Capitán"
+    }
+  ],
+  "Tier_2": [
+    {
+      "nombre": "Rodolfo Evans",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Jere Kohler",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Kreynex Jimenez",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Alejandro Gongora",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Maria Parra",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Leo Ucelay",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "James Rothwagen",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Guada Martinez",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Naduo Giaccometti",
+      "rango": "Teniente"
+    },
+    {
+      "nombre": "Cessar Johnson",
+      "rango": "Sargento"
+    }
+  ],
+  "Tier_1": [
+    {
+      "nombre": "August Smith",
+      "rango": "Sargento"
+    },
+    {
+      "nombre": "Sukaji Joestar",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Klaus Holzthyzh",
+      "rango": "Cadete"
+    },
+    {
+      "nombre": "Ezzio Audiitore ",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Ayax Wobbyskot",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Gabriel Wingston",
+      "rango": "Suboficial"
+    },
+    {
+      "nombre": "Cristian Zaramay",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Chloe Kalinowski",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Erick Balderas",
+      "rango": "Oficial"
+    },
+    {
+      "nombre": "Misty Day",
+      "rango": "Cabo"
+    },
+    {
+      "nombre": "Fernan Trejo",
+      "rango": "Teniente"
+    }
+  ],
   "Tier_0": [
     {
-      "nombre": "",
+      "nombre": "John Callahan",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Mark Robles",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark Robles",
+      "rango": ""
+    },
+    {
+      "nombre": "N/A",
       "rango": ""
     },
     {
@@ -13,144 +169,60 @@
       "rango": ""
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Eden Leblanc",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Xang Bassthem",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Melany Nighthell",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Tommy Mashlowht",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Gerard Brighhtwellz",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Owen Berthenzhaal",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Jere Baigorria",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Rayz Brockullz",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Paris Bismark",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Eliseo King",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Giorgio Rosselli",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Raul Deleone",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Marco Carvajal",
+      "rango": "Externo"
     },
     {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
-    },
-    {
-      "nombre": "",
-      "rango": ""
+      "nombre": "Neythan Bethzskye",
+      "rango": "Externo"
     }
   ]
 }
