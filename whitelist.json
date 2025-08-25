@@ -57,6 +57,10 @@
     {
       "nombre": "Mert Yilmaz",
       "rango": "Capitán"
+    },
+    {
+      "nombre": "Naduo Giaccometti",
+      "rango": "Teniente"
     }
   ],
   "Tier_2": [
@@ -73,10 +77,6 @@
       "rango": "Sargento"
     },
     {
-      "nombre": "Alejandro Gongora",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Maria Parra",
       "rango": "Cabo"
     },
@@ -91,10 +91,6 @@
     {
       "nombre": "Guada Martinez",
       "rango": "Cabo"
-    },
-    {
-      "nombre": "Naduo Giaccometti",
-      "rango": "Teniente"
     },
     {
       "nombre": "Cessar Johnson",
@@ -131,6 +127,10 @@
       "rango": "Cabo"
     },
     {
+      "nombre": "Alejandro Gongora",
+      "rango": "Cabo"
+    },
+    {
       "nombre": "Chloe Kalinowski",
       "rango": "Oficial"
     },
@@ -148,6 +148,34 @@
     }
   ],
   "Tier_0": [
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
+    {
+      "nombre": "Mark_Barlow",
+      "rango": ""
+    },
     {
       "nombre": "John Callahan",
       "rango": "Externo"
