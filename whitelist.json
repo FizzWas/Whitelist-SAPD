@@ -99,7 +99,7 @@
   ],
   "Tier_1": [
     {
-      "nombre": "August Smith",
+      "nombre": "August_Smoth",
       "rango": "Sargento"
     },
     {
@@ -148,6 +148,10 @@
     }
   ],
   "Tier_0": [
+    {
+      "nombre": "Mikkaem_Strong",
+      "rango": ""
+    },
     {
       "nombre": "Mark_Barlow",
       "rango": ""
