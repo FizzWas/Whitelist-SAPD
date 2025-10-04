@@ -131,10 +131,6 @@
       "rango": "Suboficial"
     },
     {
-      "nombre": "Cristian Zaramay",
-      "rango": "Cabo"
-    },
-    {
       "nombre": "Alejandro Gongora",
       "rango": "Cabo"
     },
@@ -234,6 +230,10 @@
     },
     {
       "nombre": "Owen Berthenzhaal",
+      "rango": "Externo"
+    },
+    {
+      "nombre": "Cristian Zaramay",
       "rango": "Externo"
     },
     {
