@@ -99,6 +99,10 @@
   ],
   "Tier_1": [
     {
+      "nombre": "Phillip Braddford",
+      "rango": "Cadete"
+    },
+    {
       "nombre": "August_Smoth",
       "rango": "Sargento"
     },
@@ -149,7 +153,7 @@
   ],
   "Tier_0": [
     {
-      "nombre": "Phillip Braddford",
+      "nombre": "Fletzer_Khezthwich",
       "rango": ""
     },
     {
