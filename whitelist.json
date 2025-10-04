@@ -99,6 +99,10 @@
   ],
   "Tier_1": [
     {
+      "nombre": "Fletzer Khezthwich",
+      "rango": "Cadete"
+    },
+    {
       "nombre": "Phillip Braddford",
       "rango": "Cadete"
     },
@@ -152,10 +156,6 @@
     }
   ],
   "Tier_0": [
-    {
-      "nombre": "Fletzer_Khezthwich",
-      "rango": ""
-    },
     {
       "nombre": "Phillip Braddford",
       "rango": ""
